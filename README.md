@@ -4,7 +4,8 @@ PullResourceAdditions items for use with Dedicated Storage on aCw Servers.
 To include the additional items, open the gameusersettings.ini from the server(s) and paste the content from the "PullResourceAdditions.txt" behind "PullResourceAdditions=" (usually near the end of the [SuperStructures] settings section).
 
 EXAMPLE:
-PullResourceAdditions=/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Pelt.PrimalItemResource_Pelt,/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ankylo.PrimalItemConsumable_Egg_Ankylo
+
+    PullResourceAdditions=/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Pelt.PrimalItemResource_Pelt,/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ankylo.PrimalItemConsumable_Egg_Ankylo
 
 It is a comma separated list! No wordwrap! No quotation marks!
 
